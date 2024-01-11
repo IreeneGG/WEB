@@ -5,11 +5,16 @@ A continuación, se proporciona una descripción:
 
 ## Microservicio Viajes
 
--Descrcipción:
+### Descrcipción:
 Este microservicio esta desarrollado en Node.js y utiliza una base de datos MongoDB. Se encarga de gestionar inforomación relacionada a los viajes.
 
--Instalación
+### Instalación
+- Asegúrate de tener Node.js y MongoDB instalados en tu sistema.
+- Clona este repositorio o descomprime el archivo del proyecto.
+- Navega al directorio del proyecto y ejecuta npm install para instalar las dependencias.
 
-.Asegúrate de tener Node.js y MongoDB instalados en tu sistema.
-.Clona este repositorio o descomprime el archivo del proyecto.
-.Navega al directorio del proyecto y ejecuta npm install para instalar las dependencias.
+### Ejecución
+- Para iniciar MongoDB
+  >  mongod --dbpath data/db.
+- Luego, inicia el servidor del microservicio
+  >  node main.js.
