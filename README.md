@@ -28,7 +28,7 @@ El microservicio incluye documentación de la API generada con Swagger, que pued
 ## Microservicio Autentificacion 🪪
 
 ### Descripción:
-Este microservicio está desarrollado en FastAPI y se encarga de la autenticación de usuarios.
+Este microservicio está desarrollado en FastAPI y utiliza una base de datos MySQL. Se encarga de la autenticación de usuarios.
 
 ### Instalación ⚙️
 - Asegúrate de tener Python, MySQL y FastAPI instalados en tu sistema.
@@ -53,5 +53,23 @@ El microservicio incluye documentación de la API generada con Swagger, que pued
 
 
 	https//:localhost:8000/docs
+
+## Frontend en React💻
+
+### Descripción:
+Este proyecto de frontend está desarrollado en React y se encarga de la interfaz de usuario para interactuar con los microservicios.
+
+### Instalación ⚙️
+- Asegúrate de tener Node.js instalado en tu sistema.
+- Clona este repositorio o descomprime el archivo del proyecto.
+- Navega al directorio del proyecto y ejecuta npm install para instalar las dependencias.
+- 
+### Ejecución ▶️
+Inicia la aplicación React con (Esto abrirá la aplicación en tu navegador )
+
+	npm start
+
+
+ 
 
  
