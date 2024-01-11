@@ -17,10 +17,10 @@ Este proyecto es un microservicio de autenticación de usuarios desarrollado en 
 ## Acceso al Servicio
 - Una vez que el servidor esté en funcionamiento, accede al servicio de autenticación a través de la URL proporcionada por Uvicorn. Ejecuta el siguiente comando 'uvicorn main:app --reload'
 
-Documentación API: 📖
-- Accede a la documentación Swagger del servicio en la ruta '/docs' una vez que el servidor esté en funcionamiento.
-
 Base de Datos:
 - Este microservicio utiliza MySQL. Asegúrate de tener MySQL instalado y configurado.
+
+## Documentación API: 📖
+- Accede a la documentación Swagger del servicio en la ruta '/docs' una vez que el servidor esté en funcionamiento.
 
 
