@@ -14,7 +14,6 @@ Este microservicio esta desarrollado en Node.js y utiliza una base de datos Mong
 - Navega al directorio del proyecto y ejecuta npm install para instalar las dependencias.
 
 ### Ejecución
-> Para iniciar MongoDB
-    mongod --dbpath data/db.
-> Luego, inicia el servidor del microservicio
-    node main.js.
+Para iniciar MongoDB, ejecuta 
+
+	mongod --dbpath data/db
